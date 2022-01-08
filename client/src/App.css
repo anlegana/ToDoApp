@@ -1,0 +1,9 @@
+.activity {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(219, 190, 218);
+  border: 1px solid;
+  list-style: none;
+  border-radius: 25px;
+  padding: 25px;
+}
