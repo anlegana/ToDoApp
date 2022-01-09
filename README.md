@@ -7,13 +7,13 @@ In order to makes this project run you need to follow some steps.
 ![](images_readme/apirun.jpg) <br />
 3.before running the front end you should type npm install in another terminal (pointing inside the client folder).
 ![](images_readme/clientrequirement.jpg) <br />
-4.and the to run the front end you should type npm tun start.
+4.and the to run the front end you should type npm run start.
 ![](images_readme/clientrun.jpg)<br />
-5.wait for the explorer to open, the apps works better in google chrome.<br />
+5.wait for the explorer to open, the app works better in google chrome.<br />
 <br />
 <b>APPLICATION EXPLANATION :<b>
 
 ![](images_readme/applicationCaptures.JPG) <br />
-6.run add a new activity just type it in the text widget and click in the submit button.<br />
+6.to add a new activity just type it in the text widget and click in the submit button.<br />
 7.to delete new activity just click in the delete icon of the specific activity you want to delete.<br />
 8.to edit an adcivity you should in the edit button of the acitivity , write in the text widget and click the submit button.
