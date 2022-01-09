@@ -11,8 +11,9 @@ In order to makes this project run you need to follow some steps.
 ![](images_readme/clientrun.jpg)<br />
 5.wait for the explorer to open, the apps works better in google chrome.<br />
 <br />
-**APPLICATION EXPLANATION :**
-![](images_readme/applicationCaptures.jpg) <br />
+<b>APPLICATION EXPLANATION :<b>
+
+![](images_readme/applicationCaptures.JPG) <br />
 6.run add a new activity just type it in the text widget and click in the submit button.<br />
 7.to delete new activity just click in the delete icon of the specific activity you want to delete.<br />
 8.to edit an adcivity you should in the edit button of the acitivity , write in the text widget and click the submit button.
